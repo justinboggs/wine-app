@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 14 01:50:25 2020
-
-@author: ASUS
-"""
-
 from pycaret.classification import load_model, predict_model
 import streamlit as st
 import pandas as pd
